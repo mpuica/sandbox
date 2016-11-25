@@ -1,1 +1,2 @@
-	boohoo. changed in master.
+version : 1.1.0<br>
+date: <?php now() ?>
