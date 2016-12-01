@@ -5,7 +5,7 @@
     <title>Foo</title>
 </head>
 <body>
-version : 1.2.8<br>
+version : 1.2.9<br>
 date: <?php echo date("Y-m-d H:i:s"); ?>
 
 </body>
